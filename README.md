@@ -45,7 +45,7 @@ BedWars aims to provide a **complete, fun, and competitive BedWars experience** 
 
 - Minecraft **1.8+**
 - Spigot / Paper / Forked servers
-- Works with the optional **open-source replay addon** for recording and reviewing matches
+- Works with the optional **open-source replay addon** for recording and reviewing matches . YOU CAN FIND THE REPLAY ADDON IN MY NEXT REPO.
 
 ---
 
